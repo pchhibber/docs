@@ -1,2 +1,3 @@
 - [Login/Sign up inspiration for mobile apps](https://medium.com/muzli-design-inspiration/login-sign-up-inspiration-for-mobile-apps-aeff34090bbd#.aj8plwi66)
 - [Onboarding and Designing Login/Registration Pages](http://blogs.adobe.com/dreamweaver/2016/01/onboarding-and-designing-loginregistration-pages.html)
+- [19 Ways to Simplify 'Sign Up'](http://baymard.com/blog/simplifying-sign-up)
