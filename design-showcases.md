@@ -11,3 +11,13 @@
 [Medium](http://www.teehanlax.com/story/medium/)
 
 [Facebook](http://officeofbenbarry.com/see/facebook-visual-identity)
+
+[Communigate](https://www.behance.net/gallery/41857641/Communigate)
+
+[Plutus](https://www.behance.net/gallery/41570811/Plutus)
+
+[JIIVA](https://www.behance.net/gallery/11249577/JIIVA-Diet-Monitor)
+
+[Frog Design](http://www.frogdesign.com/work/un-ocha-humanitarian-data-exchange.html)
+
+
