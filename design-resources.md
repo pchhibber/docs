@@ -1,3 +1,27 @@
+## Icons
+Icon Finder
+Noun Project
+Flat Icon
+
+## Fonts
+Google Fonts
+Font Squirrel
+
+## Color Schemes
+Material Palette
+UI Gradients
+
+## Visual Design References
+Behance
+Dribbble
+
+## Mockups
+
+## Styleguides (generators)
+
+## Component Libraries
+
+
 ## Free Stock Photos
 
 * [Stock photos that don't suck](https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b)
