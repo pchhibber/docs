@@ -21,3 +21,5 @@
 [Frog Design](http://www.frogdesign.com/work/un-ocha-humanitarian-data-exchange.html)
 
 [Robinhood](https://design.google.com/articles/robinhood/)
+
+[22 Best Design and Redesign Concepts of Websites, Apps and Brands](http://designhuntr.com/best-redesign-concepts/)
