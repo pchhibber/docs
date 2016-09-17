@@ -89,3 +89,21 @@
 [Browser Stack](https://www.browserstack.com/)
 
 Amazon device testing
+
+## Online Code Editors
+[JS Fiddle](https://jsfiddle.net/)
+
+[JS Bin](https://jsbin.com/)
+
+[Codepen](http://codepen.io/)
+
+[Plunker](http://plnkr.co/)
+
+[Ele](https://builtwithpolymer.org/2014/09/03/ele/)
+
+## Online Image Editors
+
+## A/B & User Testing Tools
+[User Testing](usertesting.com)
+
+[Crazy Egg](http://www.crazyegg.com/)
