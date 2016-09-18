@@ -40,6 +40,44 @@
 ## Component Libraries
 
 ## Data Visualisation Libraries
+[AMCharts](https://www.amcharts.com/)
+
+[Fusion Charts](http://www.fusioncharts.com/)
+
+[Google Charts](https://developers.google.com/chart/)
+
+[Kendo UI Charts](http://www.telerik.com/kendo-ui/charts)
+
+[Sencha](http://examples.sencha.com/extjs/5.0.0/examples/kitchensink/?charts=true#all)
+
+[jQWidgets](http://www.jqwidgets.com/jquery-widgets-demo/demos/jqxchart/index.htm)
+
+[JSCharts](http://www.jscharts.com/examples)
+
+[Open Flash Chart](http://teethgrinder.co.uk/open-flash-chart-2/tutorial.php)
+
+[High Charts](http://www.highcharts.com/demo)
+
+[Zoom Charts](https://zoomcharts.com/en/gallery/)
+[Data Visualisation Software Lab](http://datavisualizationsoftwarelab.com/en/products/time-chart/demo/basic-columns)
+
+[nvd3](http://nvd3.org/examples/index.html)
+
+[Dimensional Charting Javascript Library](http://dc-js.github.io/dc.js/)
+
+[Plotly](https://plot.ly/)
+
+[Processing](https://processing.org/)
+
+[pykCharts](https://pykih.com/products/pykCharts)
+
+Also see,
+- [List](http://www.jsgraphs.com/)
+- [d3](https://github.com/d3/d3/wiki/Gallery)   [Awesome d3](https://github.com/wbkd/awesome-d3)
+- [30 Simple Tools For Data Visualization](https://www.fastcodesign.com/3029239/infographic-of-the-day/30-simple-tools-for-data-visualization)
+- [Kibana](https://www.elastic.co/products/kibana)
+- [Tableau](http://www.tableau.com/)
+- Design rationale for what kind of chart best represents particular types of data
 
 ## Free Stock Photos
 
