@@ -40,6 +40,23 @@
 ## Component Libraries
 
 ## Data Visualisation Libraries
+
+### Generic
+[d3](https://github.com/d3/d3/wiki/Gallery) 
+[Awesome d3](https://github.com/wbkd/awesome-d3)
+
+[nvd3](http://nvd3.org/examples/index.html)
+
+[Plotly](https://plot.ly/)
+
+[Processing](https://processing.org/)
+
+### Maps
+[AM Maps](https://www.amcharts.com/javascript-maps/)
+
+[Fusion Maps](http://www.fusioncharts.com/charts/fusionmaps/)
+
+###Charts and Graphs
 [AMCharts](https://www.amcharts.com/)
 
 [Fusion Charts](http://www.fusioncharts.com/)
@@ -61,19 +78,12 @@
 [Zoom Charts](https://zoomcharts.com/en/gallery/)
 [Data Visualisation Software Lab](http://datavisualizationsoftwarelab.com/en/products/time-chart/demo/basic-columns)
 
-[nvd3](http://nvd3.org/examples/index.html)
-
 [Dimensional Charting Javascript Library](http://dc-js.github.io/dc.js/)
-
-[Plotly](https://plot.ly/)
-
-[Processing](https://processing.org/)
 
 [pykCharts](https://pykih.com/products/pykCharts)
 
 Also see,
 - [List](http://www.jsgraphs.com/)
-- [d3](https://github.com/d3/d3/wiki/Gallery)   [Awesome d3](https://github.com/wbkd/awesome-d3)
 - [30 Simple Tools For Data Visualization](https://www.fastcodesign.com/3029239/infographic-of-the-day/30-simple-tools-for-data-visualization)
 - [Kibana](https://www.elastic.co/products/kibana)
 - [Tableau](http://www.tableau.com/)
@@ -86,5 +96,4 @@ Also see,
 * [17 Amazing Sites With Breathtaking Free Stock Photos](https://bootstrapbay.com/blog/free-stock-photos/)
 * [Free Stock Photos: 73 Best Sites To Find Awesome Free Images](https://designschool.canva.com/blog/free-stock-photos/)
 * [Death to the stock photo](https://medium.com/medium-writing-prompts/what-prepares-you-for-the-day-569939b9525e)
-
-Also try (integrating?) flikr.
+* [Flikr](https://www.flickr.com/)
