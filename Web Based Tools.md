@@ -107,3 +107,5 @@ Amazon device testing
 [User Testing](usertesting.com)
 
 [Crazy Egg](http://www.crazyegg.com/)
+
+[Hotjar](https://www.hotjar.com/)
