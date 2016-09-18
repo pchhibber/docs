@@ -1,24 +1,34 @@
 ## Icons
-Icon Finder
-Noun Project
-Flat Icon
+[Icon Finder](https://www.iconfinder.com/)
+
+[Noun Project](https://thenounproject.com/)
+
+[Flat Icon](http://www.flaticon.com/)
 
 ## Icon fonts/ Icon set management
+[Fontastic](http://fontastic.me/)
+
+[Font Awesome](http://fontawesome.io/)
 
 ## Fonts
-Google Fonts
-Font Squirrel
+[Google Fonts](https://fonts.google.com/)
+
+[Font Squirrel](https://www.fontsquirrel.com/)
 
 ## Grid Systems
 [Grid Calculator](http://gridcalculator.dk/)
 
 ## Color Schemes
-Material Palette
-UI Gradients
+[Material Palette](https://www.materialpalette.com/)
+
+[UI Gradients](http://uigradients.com/)
+
+[Coolors](https://coolors.co/)
 
 ## Visual Design References
-Behance
-Dribbble
+[Behance](https://www.behance.net/)
+
+[Dribbble](https://dribbble.com/)
 
 ## Mockups
 
