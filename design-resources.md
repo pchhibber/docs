@@ -1,3 +1,30 @@
+## Ideation Frameworks
+
+[SVPG Opportunity Assessment](http://www.svpg.com/assessing-product-opportunities/)
+
+[Business Model Canvas](http://www.businessmodelgeneration.com/canvas/bmc)
+
+[Empathy Maps](https://dschool.stanford.edu/wp-content/themes/dschool/method-cards/empathy-map.pdf)
+
+[Value Proposition Design](https://strategyzer.com/books/value-proposition-design)
+
+[Lean Change Canvas](https://canvanizer.com/new/lean-change-canvas)
+
+Elevator Pitch, Product in a box, Not List - from [the Agile Inception Deck](https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/)
+
+[Porters 5 Force Model](https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis)
+
+[Hype Cycle](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp)
+
+[Mega Trends](http://www.pwc.co.uk/issues/megatrends.html)
+
+Also,
+- Mock Sale, Product Premorterm, Ecosystem Mapping
+- Assumption Grid (Risk vs Certainity 2x2), Innovators Compass, Idea Prioritisation (Importance vs Feasibility), Hills (Who, What, Wow), Retrospective (What went well, What didn't go well, Actions), 5 Whys, Consumer Trend Canvas, Team Canvas, Plane Map (Where we came from, What gives us power, Where are we going, How do we steer, Who do we deliver value to)
+- 5W's & 1H, Kano Model, RASIC Matrix, SWOT, 4P's of Product, MOSCOW Prioritisation, Deming Wheel, People-Process-Tools, Experience Map Basic (Product Discovery and Purchase, Usage, After Sales Service, Discard and Obsolescence)
+
+
+
 ## Icons
 [Icon Finder](https://www.iconfinder.com/)
 
