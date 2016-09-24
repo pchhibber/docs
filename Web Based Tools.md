@@ -78,6 +78,7 @@
 [Bubble](https://bubble.is/)
 
 ## Static Site Generators
+[Creating Websites With Dropbox-Powered Hosting Tools](https://www.smashingmagazine.com/2016/09/creating-websites-with-dropbox-powered-hosting-tools/?mc_cid=3ed8f5070e&mc_eid=a8dda34bca)
 
 ## HTML Development
 [Can I Use](http://caniuse.com/)
