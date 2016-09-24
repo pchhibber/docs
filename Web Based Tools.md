@@ -48,6 +48,8 @@
 
 [The Grid](thegrid.io)
 
+[Hubspot Template Builder](https://www.youtube.com/watch?v=ZkXdTBHemfA)
+
 [Product Hunt Posts Tagged Builder](http://www.producthunt.com/#!/s/posts/builder)
 
 [Visual Reference - Gloo](https://dribbble.com/shots/1886463-Content-Builder/attachments/320494)
@@ -55,6 +57,18 @@
 [A COMPILATION OF BUILDERS](https://helpmebuild.io/)
 
 ## Email Builders
+
+[Mailchimp](http://mailchimp.com/)
+
+[Stamplia](http://blog.stamplia.com/)
+
+Hubspot [Creating and Sending Emails](https://knowledge.hubspot.com/email-user-guide-v2/how-to-create-and-send-emails) [Template Builder](https://knowledge.hubspot.com/design-manager-user-guide-v2/how-to-structure-and-customize-template-layouts)
+
+## Data Source Builders
+
+[Postman](https://www.getpostman.com/)
+
+[Yahoo Pipes](https://en.wikipedia.org/wiki/Yahoo!_Pipes)
 
 ## App Builders
 [Codiqa](https://codiqa.com/)
