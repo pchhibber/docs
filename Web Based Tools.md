@@ -54,6 +54,8 @@
 
 [A COMPILATION OF BUILDERS](https://helpmebuild.io/)
 
+## Email Builders
+
 ## App Builders
 [Codiqa](https://codiqa.com/)
 
