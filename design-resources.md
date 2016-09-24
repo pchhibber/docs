@@ -124,3 +124,16 @@ Also see,
 * [Free Stock Photos: 73 Best Sites To Find Awesome Free Images](https://designschool.canva.com/blog/free-stock-photos/)
 * [Death to the stock photo](https://medium.com/medium-writing-prompts/what-prepares-you-for-the-day-569939b9525e)
 * [Flikr](https://www.flickr.com/)
+
+
+## Creating Responsive Emails
+
+[Responsive Email Layouts for Gmail App](https://julie.io/writing/responsive-layout-email-ux-munich-newsletter/?mc_cid=3ed8f5070e&mc_eid=a8dda34bca)
+
+[Responsive Email Patterns](http://responsiveemailpatterns.com/?mc_cid=3ed8f5070e&mc_eid=a8dda34bca)
+
+[Responsive Email Resources](http://responsiveemailresources.com/?mc_cid=3ed8f5070e&mc_eid=a8dda34bca)
+
+[Mark Robbins | Modern CSS and interactive email | CSS Day 2016](https://vimeo.com/channels/cssday/181481382?mc_cid=3ed8f5070e&mc_eid=a8dda34bca)
+
+[The Fab Four technique to create Responsive Emails without Media Queries](https://medium.freecodecamp.com/the-fab-four-technique-to-create-responsive-emails-without-media-queries-baf11fdfa848?mc_cid=3ed8f5070e&mc_eid=a8dda34bca#.rz704swue)
