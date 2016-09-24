@@ -62,7 +62,7 @@
 
 [Stamplia](http://blog.stamplia.com/)
 
-Hubspot [Creating and Sending Emails](https://knowledge.hubspot.com/email-user-guide-v2/how-to-create-and-send-emails) [Template Builder](https://knowledge.hubspot.com/design-manager-user-guide-v2/how-to-structure-and-customize-template-layouts)
+Hubspot [Creating and Sending Emails](https://knowledge.hubspot.com/email-user-guide-v2/how-to-create-and-send-emails)      [Template Builder](https://knowledge.hubspot.com/design-manager-user-guide-v2/how-to-structure-and-customize-template-layouts)
 
 ## Data Source Builders
 
