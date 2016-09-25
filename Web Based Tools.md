@@ -18,7 +18,11 @@
 
 [Mural](Mural.co)
 
+[CSS Hero](www.csshero.org)
+
 [Node Red](http://nodered.org/)
+
+[CylonJS](https://cylonjs.com/)
 
 ## Form Builders
 [Google Forms](https://apps.google.com/intx/en_in/products/forms)
@@ -33,6 +37,8 @@
 
 ## Page Builders
 [Froont](http://froont.com/)
+
+[Squarespace](https://www.squarespace.com)
 
 [Jetstrap](https://jetstrap.com/)
 
@@ -60,11 +66,19 @@
 
 ## Email Builders
 
+[Campaign Monitor](https://www.campaignmonitor.com/)
+
 [Mailchimp](http://mailchimp.com/)
 
 [Stamplia](http://blog.stamplia.com/)
 
 Hubspot [Creating and Sending Emails](https://knowledge.hubspot.com/email-user-guide-v2/how-to-create-and-send-emails)      [Template Builder](https://knowledge.hubspot.com/design-manager-user-guide-v2/how-to-structure-and-customize-template-layouts)
+
+[Klaviyo](https://www.klaviyo.com/)
+
+[Inkbrush](https://www.inkbrush.com/)
+
+[Litmus](https://litmus.com/)
 
 ## Data Source Builders
 
@@ -94,6 +108,17 @@ Hubspot [Creating and Sending Emails](https://knowledge.hubspot.com/email-user-g
 [Predix](https://www.predix.io/services/starter-pack.html?id=1225)
 
 [Bubble](https://bubble.is/)
+
+## Dashboard Builders
+[Klipfolio](https://www.klipfolio.com/)
+
+[The Dash](https://www.thedash.com/)
+
+[Ducksboard](https://ducksboard.com/)
+
+[Qlik](http://www.qlik.com/us/)
+
+[Tableau](http://www.tableau.com/)
 
 ## Static Site Generators
 [Creating Websites With Dropbox-Powered Hosting Tools](https://www.smashingmagazine.com/2016/09/creating-websites-with-dropbox-powered-hosting-tools/?mc_cid=3ed8f5070e&mc_eid=a8dda34bca)
