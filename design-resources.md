@@ -74,8 +74,7 @@ Also,
 ## Data Visualisation Libraries
 
 ### Generic
-[d3](https://github.com/d3/d3/wiki/Gallery) 
-[Awesome d3](https://github.com/wbkd/awesome-d3)
+[d3](https://github.com/d3/d3/wiki/Gallery) | [Awesome d3](https://github.com/wbkd/awesome-d3)
 
 [nvd3](http://nvd3.org/examples/index.html)
 
@@ -107,8 +106,7 @@ Also,
 
 [High Charts](http://www.highcharts.com/demo)
 
-[Zoom Charts](https://zoomcharts.com/en/gallery/)
-[Data Visualisation Software Lab](http://datavisualizationsoftwarelab.com/en/products/time-chart/demo/basic-columns)
+[Zoom Charts](https://zoomcharts.com/en/gallery/) | [Data Visualisation Software Lab](http://datavisualizationsoftwarelab.com/en/products/time-chart/demo/basic-columns)
 
 [Dimensional Charting Javascript Library](http://dc-js.github.io/dc.js/)
 
