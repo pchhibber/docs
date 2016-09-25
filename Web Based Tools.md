@@ -18,7 +18,7 @@
 
 [Mural](Mural.co)
 
-[Node Red]()
+[Node Red](http://nodered.org/)
 
 ## Form Builders
 [Google Forms](https://apps.google.com/intx/en_in/products/forms)
@@ -133,3 +133,8 @@ Amazon device testing
 
 ## Analyzers 
 [Wappalyzer](https://wappalyzer.com/)
+
+## Aggregators
+[Muzli] (https://muz.li/)
+
+[Panda](http://usepanda.com/)
