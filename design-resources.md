@@ -68,6 +68,9 @@ Also,
 ## Mockups
 
 ## Styleguides (generators)
+[Zeplin](https://zeplin.io/)
+
+[SC5](http://styleguide.sc5.io/)
 
 ## Component Libraries
 
@@ -129,6 +132,8 @@ Also see,
 * [Flikr](https://www.flickr.com/)
 
 
+# References for Creating Functionality
+
 ## Creating Responsive Emails
 
 [Responsive Email Layouts for Gmail App](https://julie.io/writing/responsive-layout-email-ux-munich-newsletter/?mc_cid=3ed8f5070e&mc_eid=a8dda34bca)
@@ -140,3 +145,11 @@ Also see,
 [Mark Robbins | Modern CSS and interactive email | CSS Day 2016](https://vimeo.com/channels/cssday/181481382?mc_cid=3ed8f5070e&mc_eid=a8dda34bca)
 
 [The Fab Four technique to create Responsive Emails without Media Queries](https://medium.freecodecamp.com/the-fab-four-technique-to-create-responsive-emails-without-media-queries-baf11fdfa848?mc_cid=3ed8f5070e&mc_eid=a8dda34bca#.rz704swue)
+
+
+## Creating Editors in web apps
+[Ace Editor](https://ace.c9.io/#nav=about)
+
+[CK Editor](http://ckeditor.com/)
+
+[Medium like Editors]
