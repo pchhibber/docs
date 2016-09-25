@@ -48,6 +48,8 @@ Also,
 ## Typography
 [Gridlover](http://www.gridlover.net/)
 
+[What The Font](https://www.myfonts.com/WhatTheFont/) | [Chrome Extension](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
+
 ## Color Schemes
 [Material Palette](https://www.materialpalette.com/)
 
