@@ -159,6 +159,8 @@ Amazon device testing
 ## Analyzers 
 [Wappalyzer](https://wappalyzer.com/)
 
+[Webcomponent performance?](https://aerotwist.com/blog/polymer-for-the-performance-obsessed/)
+
 ## Aggregators
 [Muzli] (https://muz.li/)
 
