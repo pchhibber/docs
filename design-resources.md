@@ -67,6 +67,13 @@ Also,
 
 [Envato](https://envato.com/)
 
+## Mock Data
+[Slipsum](http://slipsum.com/)
+
+[Lorempixel](http://lorempixel.com/)
+
+[JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+
 ## Mockups
 
 ## Styleguides (generators)
