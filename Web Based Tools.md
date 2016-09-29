@@ -152,6 +152,8 @@ Amazon device testing
 ## A/B & User Testing Tools
 [User Testing](usertesting.com)
 
+[Qualaroo](https://qualaroo.com/)
+
 [Crazy Egg](http://www.crazyegg.com/)
 
 [Hotjar](https://www.hotjar.com/)
