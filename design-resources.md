@@ -129,7 +129,8 @@ Also see,
 - [30 Simple Tools For Data Visualization](https://www.fastcodesign.com/3029239/infographic-of-the-day/30-simple-tools-for-data-visualization)
 - [Kibana](https://www.elastic.co/products/kibana)
 - [Tableau](http://www.tableau.com/)
-- Design rationale for what kind of chart best represents particular types of data
+- [Design rationale for what kind of chart best represents particular types of data](http://www.slideshare.net/idigdata/data-visualization-best-practices-2013/16-Part_to_Whole_RelationshipsUse_Bar)
+- [datavisualization.ch - A Carefully Selected List of Recommended Tools](https://datavisualization.ch/tools/selected-tools/)
 
 ## Free Stock Photos
 
