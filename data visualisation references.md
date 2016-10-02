@@ -54,6 +54,10 @@
 
 [ENERGY TECHNOLOGIES VISUALISATION FOR THE IEA](http://www.visualisingdata.com/2012/06/energy-technologies-visualisation-for-the-iea/)
 
+[Concept Map](http://www.findtheconversation.com/concept-map/)
+
+[Concept Explorer](http://ramblings.mcpher.com/Home/excelquirks/gassites/d3-concept-browser)
+
 ## Research/ Other
 [From Text Interpretation to Data to Networks: A Two Part Workshop on Data Extraction and Visualization of Historical Sources](http://martenduering.com/from-text-to-data-to-networks/)
 
