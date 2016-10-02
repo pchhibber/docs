@@ -131,6 +131,7 @@ Also see,
 - [Tableau](http://www.tableau.com/)
 - [Design rationale for what kind of chart best represents particular types of data](http://www.slideshare.net/idigdata/data-visualization-best-practices-2013/16-Part_to_Whole_RelationshipsUse_Bar)
 - [datavisualization.ch - A Carefully Selected List of Recommended Tools](https://datavisualization.ch/tools/selected-tools/)
+- [Open data tools - Visualisation](http://opendata-tools.org/en/visualization/)
 
 ## Free Stock Photos
 
