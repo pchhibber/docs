@@ -122,6 +122,10 @@ Hubspot [Creating and Sending Emails](https://knowledge.hubspot.com/email-user-g
 
 [Dasheroo](https://www.dasheroo.com/)
 
+[Domo](https://www.domo.com/)
+
+[Geckoboard](https://www.geckoboard.com/)
+
 ## Static Site Generators
 [Creating Websites With Dropbox-Powered Hosting Tools](https://www.smashingmagazine.com/2016/09/creating-websites-with-dropbox-powered-hosting-tools/?mc_cid=3ed8f5070e&mc_eid=a8dda34bca)
 
