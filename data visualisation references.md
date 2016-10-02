@@ -24,6 +24,14 @@
 
 [Accurat](http://www.accurat.it/)
 
+[Feltron](http://feltron.com/)
+
+[Information is beautiful](http://www.informationisbeautiful.net/) | [Awards](http://www.informationisbeautifulawards.com/)
+
+[Ben Fry](http://benfry.com/)
+
+[Visualizing.org](http://www.visualizing.org/)
+
 ## Individual Visualisations
 
 [Visualizing political shifts: Data and interaction design](http://www.thefunctionalart.com/2012/10/visualizing-political-shifts-few.html)
@@ -56,3 +64,5 @@
 [Visualizing Repetition in Text](http://projects.chass.utoronto.ca/chwp/CHC2007/Ruecker_etal/Ruecker_etal.htm)
 
 [Data Visualization Best Practices 2013](http://www.slideshare.net/idigdata/data-visualization-best-practices-2013)
+
+[States of Design 01: Visualization](http://www.domusweb.it/en/design/2011/05/15/states-of-design-01-visualization.html)
