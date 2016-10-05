@@ -12,7 +12,7 @@
 
 [UX Pin](http://uxpin.com/)
 
-[Photoshop/Fireworks/Illustrator/ XD/ Muse](http://www.adobe.com/in/creativecloud.html)
+[Photoshop/ Fireworks/ Illustrator/ XD/ Muse](http://www.adobe.com/in/creativecloud.html)
 
 [Facebook Origami](https://facebook.github.io/origami/)
 
