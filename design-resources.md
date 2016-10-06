@@ -142,7 +142,14 @@ Also see,
 * [Death to the stock photo](https://medium.com/medium-writing-prompts/what-prepares-you-for-the-day-569939b9525e)
 * [Flikr](https://www.flickr.com/)
 
+## Marketing Your Designs
+- Via aggregators and crowdfunders
+  - kickstarter, instructables, hacker news, product hunt, web designer news, indiegogo
 
+- Leverage your content for branding.
+  - DOT COM, twitter, medium, behance, facebook, googleplus, linkedin, slideshare, flickr, delicious, pinterest, flipboard, youtube, vimeo, wikipedia, github, stackexchange, reddit, apple store, google play, windows store, instagram, quora, tumblr, speakerdeck
+  - Also see likes of [knowem](www.knowem.com)
+  
 # References for Creating Functionality
 
 ## Creating Responsive Emails
