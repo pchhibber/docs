@@ -213,3 +213,9 @@ Network Vis [NetDraw](https://sites.google.com/site/netdrawsoftware/home) | [Paj
 [Mashery](https://www.mashery.com/)
 
 [API Doc](http://apidocjs.com/)
+
+## Misc
+
+[Disqus](https://disqus.com/)
+
+[Discourse](http://www.discourse.org/)
