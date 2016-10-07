@@ -152,6 +152,11 @@ Also see,
   - DOT COM, twitter, medium, behance, facebook, googleplus, linkedin, slideshare, flickr, delicious, pinterest, flipboard, youtube, vimeo, wikipedia, github, stackexchange, reddit, apple store, google play, windows store, instagram, quora, tumblr, speakerdeck
   - Also see likes of [knowem](www.knowem.com)
   
+## Open Data Sources
+
+[Data.gov.uk](https://data.gov.uk/)
+
+
 # References for Creating Functionality
 
 ## Creating Responsive Emails
@@ -172,8 +177,7 @@ Also see,
 
 [CK Editor](http://ckeditor.com/)
 
+[Code Mirror](https://codemirror.net/)
+
 [Medium like Editors]
 
-## Open Data Sources
-
-[Data.gov.uk](https://data.gov.uk/)
