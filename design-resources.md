@@ -173,3 +173,7 @@ Also see,
 [CK Editor](http://ckeditor.com/)
 
 [Medium like Editors]
+
+## Open Data Sources
+
+[Data.gov.uk](https://data.gov.uk/)
