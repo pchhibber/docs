@@ -197,3 +197,19 @@ Network Vis [NetDraw](https://sites.google.com/site/netdrawsoftware/home) | [Paj
 ## Crowdsourcing
 
 [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome)
+
+## API Documentation
+
+[Apiary](https://apiary.io/)
+
+[Swagger](http://swagger.io)
+
+[3Scale](https://www.3scale.net/)
+
+[Flatdoc](http://ricostacruz.com/flatdoc/)
+
+[Readme.io](http://readme.io/)
+
+[Mashery](https://www.mashery.com/)
+
+[API Doc](http://apidocjs.com/)
