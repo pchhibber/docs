@@ -23,6 +23,7 @@
 * [Share Point Feature Comparison](http://blog.blksthl.com/2013/01/14/sharepoint-2013-feature-comparison-chart-all-editions/)
 * [Share Point Service Descriptions](https://technet.microsoft.com/en-us/library/sharepoint-online-content-service-description.aspx)
 * [Sitecore](http://www.sitecore.net/platform.aspx)
+* [Affinity Designer](https://affinity.serif.com/en-us/designer/full-feature-list/)
 
 ## Considerations
 When creating a feature list for a product, one can consider
