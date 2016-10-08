@@ -156,6 +156,9 @@ Also see,
 
 [Data.gov.uk](https://data.gov.uk/)
 
+## Design Related Blogs/ Sites/ Collections
+
+[UX Tools](http://uxtools.co/)
 
 # References for Creating Functionality
 
