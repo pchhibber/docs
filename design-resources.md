@@ -160,6 +160,10 @@ Also see,
 
 [UX Tools](http://uxtools.co/)
 
+## Industry Research Sources & Reports
+
+[Euromonitor](http://www.euromonitor.com/)
+
 # References for Creating Functionality
 
 ## Creating Responsive Emails
