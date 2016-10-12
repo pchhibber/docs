@@ -86,6 +86,8 @@ Hubspot [Creating and Sending Emails](https://knowledge.hubspot.com/email-user-g
 
 [Yahoo Pipes](https://en.wikipedia.org/wiki/Yahoo!_Pipes)
 
+[Scrapinghub](https://scrapinghub.com/)
+
 ## App Builders
 [Codiqa](https://codiqa.com/)
 
