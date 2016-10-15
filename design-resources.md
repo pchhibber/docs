@@ -96,6 +96,8 @@ Also,
 
 [Processing](https://processing.org/)
 
+[Arbor](http://arborjs.org/)
+
 ### Maps
 [AM Maps](https://www.amcharts.com/javascript-maps/)
 
