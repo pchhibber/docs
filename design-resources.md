@@ -32,6 +32,8 @@ Also,
 
 [Flat Icon](http://www.flaticon.com/)
 
+[Freepik](http://www.freepik.com/)
+
 ## Icon fonts/ Icon set management
 [Fontastic](http://fontastic.me/)
 
@@ -159,6 +161,10 @@ Also see,
 [Data.gov.uk](https://data.gov.uk/)
 
 [The Free 'Big Data' Sources Everyone Should Know](http://www.datasciencecentral.com/profiles/blogs/the-free-big-data-sources-everyone-should-know)
+
+## Frameworks for thinking about data
+
+[Resource Definition Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework)
 
 ## Design Related Blogs/ Sites/ Collections
 
