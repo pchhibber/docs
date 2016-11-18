@@ -90,6 +90,8 @@ Hubspot [Creating and Sending Emails](https://knowledge.hubspot.com/email-user-g
 
 [Scrapinghub](https://scrapinghub.com/)
 
+[Stamplay](https://stamplay.com/)
+
 ## App Builders
 [Codiqa](https://codiqa.com/)
 
