@@ -132,6 +132,8 @@ Hubspot [Creating and Sending Emails](https://knowledge.hubspot.com/email-user-g
 
 [Geckoboard](https://www.geckoboard.com/)
 
+[PowerBI](https://powerbi.microsoft.com)
+
 ## IOT Builders
 [Intel® IoT Platforms](https://software.intel.com/en-us/intel-iot-platforms-getting-started-cloud-analytics)
 
