@@ -168,6 +168,8 @@ Amazon device testing
 
 ## Online Image Editors
 
+[Canva](https://www.canva.com/)
+
 ## A/B & User Testing Tools
 [User Testing](usertesting.com)
 
