@@ -1,17 +1,18 @@
 # On Tools
+- If the only tool you have is a hammer, you tend to see every problem as a nail. - Abraham Maslow
+- The tools which would teach men their own use would be beyond price. - Plato
+- We shape our tools and thereafter our tools shape us. - Marshall McLuhan
+
 - You cannot mandate productivity, you must provide the tools to let people become their best. - Steve Jobs
 - Men have become the tools of their tools. - Henry David Thoreau
 - Tools, of course, can be the subtlest of traps. - Neil Gaiman
 - Give us the tools and we will finish the job. - Winston Churchill
 - Hands are the tool of the painter, the artist. - Agnes Varda
-- If the only tool you have is a hammer, you tend to see every problem as a nail. - Abraham Maslow
 - If you give people tools, and they use their natural abilities and their curiosity, they will develop things in ways that will surprise you very much beyond what you might have expected. - Bill Gates
 - Have thy tools ready. God will find thee work. - Charles Kingsley
 - A man and his tools make a man and his trade. - Vita Sackville-West
-- The tools which would teach men their own use would be beyond price. - Plato
 - Man is a tool using animal. Without tools he is nothing, with tools he is all. - Thomas Carlyle
 - Give ordinary people the right tools, and they will design and build the most extraordinary things. - Neil Gershenfeld
-- We shape our tools and thereafter our tools shape us. - Marshall McLuhan
 
 
 # On Abstraction
