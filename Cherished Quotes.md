@@ -1,4 +1,5 @@
 # On Tools
+- Give me a lever long enough and a fulcrum on which to place it, and I shall move the world. - Archimedes
 - If the only tool you have is a hammer, you tend to see every problem as a nail. - Abraham Maslow
 - The tools which would teach men their own use would be beyond price. - Plato
 - We shape our tools and thereafter our tools shape us. - Marshall McLuhan
