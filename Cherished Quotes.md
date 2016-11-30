@@ -17,6 +17,7 @@
 
 # On Abstraction
 - No problem can be solved from the same level of consciousness that created it. - Albert Einstien
+- The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise. - Edsger Djikstra
 
 # Other
 - The best time to plant a tree was 20 years ago. The next best time is now.
