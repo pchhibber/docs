@@ -18,6 +18,9 @@
 # On Abstraction
 - No problem can be solved from the same level of consciousness that created it. - Albert Einstien
 - The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise. - Edsger Djikstra
+- Art, indeed, began with abstraction. - Sigfried Giedion
+- All art is abstract, because art is an abstraction of the truth. - Milford Zornes
+- Computer science is a science of abstraction - creating the right model for a problem and devising the appropriate mechanizable techniques to solve it. - Alfred Aho
 
 # Other
 - The best time to plant a tree was 20 years ago. The next best time is now.
