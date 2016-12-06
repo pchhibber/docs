@@ -168,7 +168,7 @@ Also see,
 
 [Resource Definition Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework)
 
-[Schema.org](Schema.org)
+[Schema.org](http://Schema.org)
 
 ## Design Related Blogs/ Sites/ Collections
 
