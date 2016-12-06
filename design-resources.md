@@ -100,6 +100,8 @@ Also,
 
 [Arbor](http://arborjs.org/)
 
+[GoJS](http://gojs.net/)
+
 ### Maps
 [AM Maps](https://www.amcharts.com/javascript-maps/)
 
