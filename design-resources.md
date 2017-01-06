@@ -22,6 +22,7 @@ Also,
 - Mock Sale, Product Premorterm, Ecosystem Mapping
 - Assumption Grid (Risk vs Certainity 2x2), Innovators Compass, Idea Prioritisation (Importance vs Feasibility), Hills (Who, What, Wow), Retrospective (What went well, What didn't go well, Actions), 5 Whys, Consumer Trend Canvas, Team Canvas, Plane Map (Where we came from, What gives us power, Where are we going, How do we steer, Who do we deliver value to)
 - 5W's & 1H, Kano Model, RASIC Matrix, SWOT, 4P's of Product, MOSCOW Prioritisation, Deming Wheel, People-Process-Tools, Experience Map Basic (Product Discovery and Purchase, Usage, After Sales Service, Discard and Obsolescence)
+- [Entrepreneurial Operating System](http://www.eosworldwide.com/)
 
 
 
