@@ -79,6 +79,8 @@ Also,
 
 [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
+[Generate Data](http://www.generatedata.com/)
+
 ## Mockups
 
 ## Styleguides (generators)
