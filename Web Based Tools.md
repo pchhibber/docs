@@ -37,6 +37,8 @@
 
 [Gravity Forms](http://www.gravityforms.com/)
 
+[Jot Form](https://www.jotform.com/)
+
 ## Page Builders
 [Froont](http://froont.com/)
 
