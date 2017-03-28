@@ -81,6 +81,8 @@ Also,
 
 [Generate Data](http://www.generatedata.com/)
 
+[Coligo](https://coligo.io/create-mock-rest-api-with-json-server/)
+
 ## Mockups
 
 ## Styleguides (generators)
