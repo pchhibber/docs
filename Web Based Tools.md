@@ -268,3 +268,6 @@ Data Modeling [Erwin](http://erwin.com/)
 [Slides](https://slides.com/)
 
 [Silk](https://www.silk.co/)
+
+## Tool Compilations
+[Tools for Makers](https://toolsformakers.com/)
